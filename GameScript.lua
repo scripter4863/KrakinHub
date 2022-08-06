@@ -1,5 +1,5 @@
 if game.PlaceId == 189707 then
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/scripter4863/NaturalDisaster/main/NaturalDisaster.lua',true))()
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/scripter4863/NaturalDisaster/main/NaturalDisaster.lua'),true))()
 end
 
 if game.PlaceId == 7991339063 then
