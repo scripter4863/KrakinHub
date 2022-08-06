@@ -9,3 +9,7 @@ end
 if game.PlaceId == 4003872968 then
     loadstring(game:HttpGet(('https://raw.githubusercontent.com/scripter4863/Giant-Survival/main/Giant%20Survival.lua'),true))()
 end
+
+if game.PlaceId == 662417684 then
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/scripter4863/LuckyBlocks/main/LuckyBlocks.lua'),true))()
+end
