@@ -18,5 +18,8 @@ elseif game.PlaceId == 286090429 then
 
 elseif game.PlaceId == 3527629287 then
     loadstring(game:HttpGet(('https://raw.githubusercontent.com/scripter4863/BigPaintBall/main/blgpaintball.lua'),true))()
+
+elseif game.PlaceId == 7655745946 then
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/scripter4863/DunkingSim/main/DunkingSim.lua'),true))()
     
 end
