@@ -15,5 +15,8 @@ elseif game.PlaceId == 9976239895 then
 
 elseif game.PlaceId == 286090429 then
     loadstring(game:HttpGet(('https://raw.githubusercontent.com/scripter4863/Arsenal/main/ArsenalGui.lua'),true))()
+
+elseif game.PlaceId == 3527629287 then
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/scripter4863/BigPaintBall/main/blgpaintball.lua'),true))()
     
 end
