@@ -9,5 +9,8 @@ elseif game.PlaceId == 4003872968 then
 
 elseif game.PlaceId == 662417684 then
     loadstring(game:HttpGet(('https://raw.githubusercontent.com/scripter4863/LuckyBlocks/main/LuckyBlocks.lua'),true))()
+
+elseif game.PlaceId == 9976239895 then
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/scripter4863/GumballFactory/main/GumballFactory.lua'),true))()
     
 end
