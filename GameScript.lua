@@ -12,5 +12,8 @@ elseif game.PlaceId == 662417684 then
 
 elseif game.PlaceId == 9976239895 then
     loadstring(game:HttpGet(('https://raw.githubusercontent.com/scripter4863/GumballFactory/main/GumballFactory.lua'),true))()
+
+elseif game.PlaceId == 286090429 then
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/scripter4863/Arsenal/main/ArsenalGui.lua'),true))()
     
 end
