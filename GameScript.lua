@@ -27,5 +27,8 @@ elseif game.PlaceId == 7009799230 then
 
 elseif game.PlaceId == 7047488135 then
     loadstring(game:HttpGet(('https://raw.githubusercontent.com/scripter4863/SpeedRunSim/main/SpeedRunSim.lua'),true))()
+
+elseif game.PlaceId == 270499015 then
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/scripter4863/BritishArmy/main/BritishArmy.lua'),true))()
     
 end
