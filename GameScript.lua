@@ -21,5 +21,8 @@ elseif game.PlaceId == 3527629287 then
 
 elseif game.PlaceId == 7655745946 then
     loadstring(game:HttpGet(('https://raw.githubusercontent.com/scripter4863/DunkingSim/main/DunkingSim.lua'),true))()
+
+elseif game.PlaceId == 7009799230 then
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/scripter4863/PressureWasherSimulator/main/PressureWasherSimulator.lua'),true))()
     
 end
