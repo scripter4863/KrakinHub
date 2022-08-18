@@ -39,5 +39,8 @@ elseif game.PlaceId == 270499015 then
 
 elseif game.PlaceId == 6403373529 then
     loadstring(game:HttpGet(('https://raw.githubusercontent.com/scripter4863/SlapBattles/main/Slap%20Battles.lua'),true))()
+
+elseif game.PlaceId == 7167319176 then
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/scripter4863/ChicagoRemastred/main/ChicagoRemastred.lua'),true))()
     
 end
