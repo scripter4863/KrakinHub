@@ -42,5 +42,8 @@ elseif game.PlaceId == 6403373529 then
 
 elseif game.PlaceId == 7167319176 then
     loadstring(game:HttpGet(('https://raw.githubusercontent.com/scripter4863/ChicagoRemastred/main/ChicagoRemastred.lua'),true))()
+
+elseif game.PlaceId == 183364845 then
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/scripter4863/speedrun4/main/speedRUN4.lua'),true))()
     
 end
