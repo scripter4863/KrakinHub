@@ -51,4 +51,7 @@ elseif game.PlaceId == 621129760 then
 
 elseif game.PlaceId == 648362523 then
     loadstring(game:HttpGet(('https://raw.githubusercontent.com/scripter4863/breaking-point/main/bp.lua'),true))()
+
+elseif game.PlaceId == 537413528 then
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/scripter4863/buildaboat/main/buildaboat.lua'),true))()
 end
