@@ -48,4 +48,7 @@ elseif game.PlaceId == 183364845 then
 
 elseif game.PlaceId == 621129760 then
     loadstring(game:HttpGet(('https://raw.githubusercontent.com/scripter4863/kat/main/KAT.lua'),true))()
+
+elseif game.PlaceId == 648362523 then
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/scripter4863/breaking-point/main/bp.lua'),true))()
 end
