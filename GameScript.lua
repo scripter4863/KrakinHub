@@ -45,5 +45,7 @@ elseif game.PlaceId == 7167319176 then
 
 elseif game.PlaceId == 183364845 then
     loadstring(game:HttpGet(('https://raw.githubusercontent.com/scripter4863/speedrun4/main/speedRUN4.lua'),true))()
-    
+
+elseif game.PlaceId == 621129760 then
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/scripter4863/kat/main/KAT.lua'),true))()
 end
