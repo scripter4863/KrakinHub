@@ -34,6 +34,9 @@ elseif game.PlaceId == 270499015 then
 elseif game.PlaceId == 7952502098 then
     loadstring(game:HttpGet(('https://raw.githubusercontent.com/scripter4863/impossibleglassobbybridge/main/impossible%20glass%20obby.lua'),true))()
 
+elseif game.PlaceId == 7584496019 then
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/scripter4863/impossibleglassobbybridge/main/impossible%20glass%20obby.lua'),true))()
+
 elseif game.PlaceId == 270499015 then
     loadstring(game:HttpGet(('https://raw.githubusercontent.com/scripter4863/BritishArmy/main/BritishArmy.lua'),true))()
 
