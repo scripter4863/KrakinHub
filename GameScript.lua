@@ -57,4 +57,10 @@ elseif game.PlaceId == 648362523 then
 
 elseif game.PlaceId == 537413528 then
     loadstring(game:HttpGet(('https://raw.githubusercontent.com/scripter4863/buildaboat/main/buildaboat.lua'),true))()
+
+elseif game.PlaceId == 9414511685 then
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/scripter4863/drivecarsdownahill/main/drivecarsdownahill.lua'),true))()
+
+elseif game.PlaceId == 7584496019 then
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/scripter4863/Fail-Impossible/main/99%20percent%20fail%20imposible%20glass%20bridge%20obby.lua'),true))()
 end
