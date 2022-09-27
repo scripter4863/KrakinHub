@@ -63,4 +63,7 @@ elseif game.PlaceId == 9414511685 then
 
 elseif game.PlaceId == 7584496019 then
     loadstring(game:HttpGet(('https://raw.githubusercontent.com/scripter4863/Fail-Impossible/main/99%20percent%20fail%20imposible%20glass%20bridge%20obby.lua'),true))()
+
+elseif game.PlaceId == 3956818381 then
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/scripter4863/ninja-legends/main/ninjalegends.lua'),true))()
 end
